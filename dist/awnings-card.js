@@ -108,4 +108,5 @@ class ShutterCard extends HTMLElement {
   }
 }
 
-customElements.define('awnings-card', ShutterCard);
+customElements.define("awnings-card", ShutterCard);
+
