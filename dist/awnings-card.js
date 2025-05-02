@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] /**
+/**
  * Awnings-card v1.0.0
  * https://github.com/alexsanzru/awnings-card
  */
