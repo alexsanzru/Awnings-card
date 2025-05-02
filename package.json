@@ -1,0 +1,19 @@
+{
+  "name": "awnings-card",
+  "version": "0.1.0",
+  "description": "Custom Lovelace card for awnings (свернуто/развернуто)",
+  "author": "alexsanzru",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexsanzru/Awnings-card"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "devDependencies": {
+    "rollup": "^2.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.0"
+  }
+}
